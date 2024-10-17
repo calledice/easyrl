@@ -1,0 +1,11 @@
+pyyaml
+ipykernel
+jupyter
+matplotlib
+seaborn
+dill
+argparse
+pandas
+pyglet
+importlib-metadata
+setuptools
